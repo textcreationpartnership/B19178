@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties propositions for peace and the cessation of this civill warre propounded to all His Majesties loving subjects.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19178</idno><idno type="EEBO-CITATION">12411111</idno>
+  <idno type="VID">197748</idno>
+  <idno type="EEBO-PROQUEST">2240953769</idno>
+  
+            <idno type="STC">Wing C2722</idno>
+            <idno type="OCLC">12411111</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197748)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 249:E129, no 4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties propositions for peace and the cessation of this civill warre propounded to all His Majesties loving subjects.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L. L. ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A narrative.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197748:1"/>
+            <p>HIS MAIESTIES PROPOSITIONS <hi>FOR</hi> PEACE, <hi>AND</hi> The Cessation of this Civill Warre.</p>
+            <p>Propounded to all His Majesties loving Subjects.</p>
+            <p>
+               <add>Decemb: 5<seg rend="sup">th</seg>
+               </add> OXFORD, Printed by L. L. Printer to the Universitie. M.DC.XLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197748:2"/>
+            <pb n="1" facs="tcp:197748:2"/>
+            <head>HIS MAJESTIES PROPOSITIONS FOR PEACE, and the cessation of this civill warre.</head>
+            <p>THe KINGS Majesty hath considered the great distractions of this Kingdome, and that it is like to be laid waste as Germanie is, if no speedy course be taken to settle it both in the Church and State, whereby those obstacles and common opinions now reigning may be de<g ref="char:EOLhyphen"/>posed, and knowne to be no other but the false impostures of Religion, whereby many foolish people, desirous of change, are blinded with an ir<g ref="char:EOLhyphen"/>religious contempt both of the King, and his great Councell the Parliament, that this may be reconciled, you shall see what faire offers he doth make in these Propositions following.</p>
+            <p>First know, that he is a gracious King, whom the subjects are bound by many obligations to o<g ref="char:EOLhyphen"/>bey, the particulars are these.</p>
+            <p>First he doth acknowledge, that as the Scepter is his, so he will maintaine the Protestant Religi<g ref="char:EOLhyphen"/>on, being the very basis and foundation of al tem<g ref="char:EOLhyphen"/>porall government, desiring therein to concurre with the Parliament.</p>
+            <pb n="2" facs="tcp:197748:3"/>
+            <p> He hath considered the great pressures and grievances of the Land, the pillaging and mur<g ref="char:EOLhyphen"/>dering many of his subjects, and desiring not the death of simple people, led away by the poor sa<g ref="char:EOLhyphen"/>lary and reward of pay, desires that the Kingdom may not be ruinated by the fury of a civill warre, and that they would agree all to receive his offers of peace. He desires moreover, that the Church now made the very pack-horse of the times, to beare the load of scandall and disgrace, may be vindicated from those Sects and Schismes, who have rent the sacred garment of the Church into severall peeces by their schisme, and that the Church may not be converted into a humerous fancy of ungrounded opinion, but flourish as it did in the happy dayes of Qu. Elizabeth.</p>
+            <p>His desire is also, that there may be no mi<g ref="char:EOLhyphen"/>stakes between him and his people, but that with a cleere understanding they would know what doth belong to Caesar, since they cannot be reli<g ref="char:EOLhyphen"/>gious toward God that are not obedient to their King. Moreover his sacred Majesty out of his care for the preservation of the Kingdome, desi<g ref="char:EOLhyphen"/>reth that the calamity and disease of the times may not be only imputed to those who are com<g ref="char:EOLhyphen"/>monly called Malignants, but that every one
+<pb n="3" facs="tcp:197748:3"/>should examine his conscience, and see if a malig<g ref="char:EOLhyphen"/>nant do not harbour there, and then they will be more fit to complaine, when they mend their own preiudicate opinions. And that there may be a concurrence betweene him and his Parlia<g ref="char:EOLhyphen"/>ment, he doth acknowledge his griefe for the great effusion of bloud at Kinton field, and that his heart doth bleed for the wounds of the com<g ref="char:EOLhyphen"/>mon-wealth: let therefore all fury and prosecu<g ref="char:EOLhyphen"/>tion of malice cease in particular persons, &amp; know that God is the authour of peace and con<g ref="char:EOLhyphen"/>cord, &amp; then his Maiesty is confident the whole Land shall flourish again in peace and prospe<g ref="char:EOLhyphen"/>ritic.</p>
+            <p>That his Maiesty will disband all his forces which by his Maiesties command are assembled, and rely for his safety, as his predecessours have done, upon the loves and affections of his peo<g ref="char:EOLhyphen"/>ple, and desist from any farther designes of a warlike nature, if all causlesse iealousies concern<g ref="char:EOLhyphen"/>ing his Maiestie be laid aside, and that he may re<g ref="char:EOLhyphen"/>turn with safetie and honour, as becomes the dig<g ref="char:EOLhyphen"/>nitie of his Person, that so he may in a peaceable manner govern this Land according to Religion and Law.</p>
+            <pb n="4" facs="tcp:197748:4"/>
+            <p> He desireth also to avoid all answers and oppo<g ref="char:EOLhyphen"/>sitions of words already betwixt His Majesty and the Parliament, &amp; have of late proved more then verball contestations; he affirmeth, that if all the countreys of England would, as some have done, receive him with that loyall affection and alacri<g ref="char:EOLhyphen"/>ty which he expecteth, and have a care of his safe<g ref="char:EOLhyphen"/>ty upon all occasions, he would lay aside all vio<g ref="char:EOLhyphen"/>lence, and for such their love and loyalty, they should be paid in that which is the proper ex<g ref="char:EOLhyphen"/>pression of a Princes gratitude, a perpetuall vigi<g ref="char:EOLhyphen"/>lant care to governe this Kingdome justly, and to preserve the only Rule by which they can be go<g ref="char:EOLhyphen"/>verned, the Law of the Land, and a setled peace may be established. That His Majesty was un<g ref="char:EOLhyphen"/>willing there should have been any bloud shed at Kinton field, knowing that civill warre is the fountaine and source by which poverty, desolati<g ref="char:EOLhyphen"/>on and crowding calamities flow into a King<g ref="char:EOLhyphen"/>dome. His Majesty is therefore desirous that he may not be pressed any further to defend his own Person from violence, but that he may rest secure in the affections of his Parliament and o<g ref="char:EOLhyphen"/>ther subjects, and then his happy returne, and the mutuall love of his subjects shalbe by him im<g ref="char:EOLhyphen"/>braced,
+<pb n="5" facs="tcp:197748:4"/>and peace againe restored to the King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>The King being a religious Prince, doth think fit, that in the distracted state of the Common<g ref="char:EOLhyphen"/>wealth, things succeeding not according to com<g ref="char:EOLhyphen"/>mon desires, the people should fast from their sins and schismes, since God Almighty for sinne doth punish this nation, &amp; dissention between a King and his People is such a sin as brings ruine and destruction to a common-wealth. It is therefore His Majesties desire, that Prince &amp; People would so behave themselves, that the justice of the Law may be equally distributed, and peace on both sides be maintained, to the profit of the subject, and honour of the Kingdome; and thus the ta<g ref="char:EOLhyphen"/>king away of some schisme and disobedience, wilbe, as His Majesty conceives, a speciall means to restore a peace unto this Kingdome.</p>
+            <p>His Majesty doth professe, that he doth looke on his great Councell as on the representative bo<g ref="char:EOLhyphen"/>dy of the whole Kingdome, being lawfully cal<g ref="char:EOLhyphen"/>led together, and elected by the peoples generall suffrages; yet himselfe is the soule of the whole common-wealth, elected and authorized by the power of God himselfe, and his government be<g ref="char:EOLhyphen"/>ing established by his lineall succession, and con<g ref="char:EOLhyphen"/>firmed
+<pb n="6" facs="tcp:197748:5"/>by the Lawes of the Land; and therefore he desires that the Parliament would shew how much they do affect that peace which His Maje<g ref="char:EOLhyphen"/>sty upon any honourable termes is so willing to imbrace, accounting it his chiefest Prerogative Royall to seeke the good of his Subjects, not doubting but such a loving relation and compli<g ref="char:EOLhyphen"/>ance between His Majesty and his Parliament, will make him willing to return againe unto his Parliament, that all differences may be buried in oblivion, this destructive warre cease, and this Kingdom flourish again in peace and prosperity.</p>
+            <p>Lastly, the Kings Majesty desireth all his lo<g ref="char:EOLhyphen"/>ving Subjects to pray that all variances and di<g ref="char:EOLhyphen"/>stractions may be composed by a connexion and united correspondency between the King and Parliament, that the Kingdome may flourish in peace and tranquillity, to the renowned honour of His Majesty, and to the generall good, safety and felicity of this whole Kingdome.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
